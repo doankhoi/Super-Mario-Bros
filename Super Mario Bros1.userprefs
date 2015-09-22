@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Nam.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Player.cs" Line="50" Column="1" />
+      <File FileName="Assets\Scripts\Nam.cs" Line="36" Column="2" />
+      <File FileName="Assets\Scripts\HoiCham.cs" Line="32" Column="5" />
+      <File FileName="Assets\Scripts\CameraControl.cs" Line="11" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
